@@ -1,0 +1,1 @@
+Source code for the NeurIPS 2022 paper [STNDT: Modeling Neural Population Activity with Spatiotemporal Transformers](https://arxiv.org/abs/2206.04727) is now being maintained at [https://github.com/trungle93/STNDT](https://github.com/trungle93/STNDT).
